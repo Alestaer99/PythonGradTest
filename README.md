@@ -3,7 +3,7 @@
 
 ## About Me
 
-I have a background in Environmental Science in which I have had some training in python and SQL in the context of conducting geospatial data analysis in ArcGIS Pro. As I am a beginner, I have taught myself more python mainly using forums on Stack Exchange and W3 Schools for basic python syntax, with the hope to enter the software consultancy field. I had never used Git or Github before this test and learning this aspect was arguably harder than the test itself (I have become very familar with ohshitgit.com). Please see my best efforts as a beginner on the test and I'm looking forward to your feedback!
+I have a background in Environmental Science in which I have had some training in Python and SQL in the context of conducting geospatial data analysis in ArcGIS Pro. As I am a beginner, I have taught myself more python mainly using forums on Stack Exchange and W3 Schools for basic python syntax, with the hope to enter the software consultancy field. I had never used Git or Github before this test and learning this aspect was arguably harder than the test itself (I have become very familiar with ohshitgit.com). Please see my best efforts as a beginner on the test and I'm looking forward to your feedback!
 
 ## About the Test Script 
 
