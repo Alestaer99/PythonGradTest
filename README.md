@@ -1,19 +1,10 @@
-# Grad Tech Test
+# Grad Tech Test - Python
+## Alex Holley
 
-This repository contains a selection of tests organised into sub-folders by language.
-For your submission, demonstrate your ability to learn by choosing a language you haven't worked with before.
+## About Me
 
-## Clone this repository
+I have a background in Environmental Science in which I have had some training in python and SQL in the context of conducting geospatial data analysis in ArcGIS Pro. As I am a beginner, I have taught myself more python mainly using forums on Stack Exchange and W3 Schools for basic python syntax, with the hope to enter the software consultancy field. Please see my best efforts as a beginner from the test and I'm looking forward to your feedback!
 
-Use `git clone` to clone the repository locally, then change the remote, please do not fork this repository. To change the remote, use
+## About the Test Script 
 
-```bash
-git remote set-url origin <path-to-your-blank-repository>
-git push -u origin <branch-name>
-```
-
-## Tips
-
-When the test passes clean up your code.
-It's worth spending time formatting and simplifing things.
-It's more important that humans can read your code than computers.
+Please open medalsDone.py to view the test script. I have inserted notes '#' along with my code for the reader to follow how I approached this problem. Please see the 'createMedalTable' function which I have created as a solution to the Medal table task.
